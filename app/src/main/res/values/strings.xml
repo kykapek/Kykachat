@@ -2,4 +2,19 @@
     <string name="app_name">Kykachat</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_status">Online</string>
+    <string name="settings_default_name">Alexey Kiselev</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_label_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_default_number">+78005353535</string>
+    <string name="settings_default_login">fartweider</string>
+    <string name="settings_label_login">Имя пользователя</string>
+    <string name="settings_default_bio">О себе</string>
+    <string name="settings_label_bio">Напишите немного о себе</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_ivregister">ivRegister</string>
+    <string name="register_enter_code">Введите код</string>
+    <string name="register_text_sent">Вам отправлено СМС с кодом проверки на ваш телефон</string>
+    <string name="register_hint_default_code">- - - - - -</string>
 </resources>
